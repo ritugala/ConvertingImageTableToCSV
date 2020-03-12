@@ -1,0 +1,18 @@
+input{
+    position: absolute;
+    margin:70px;
+    color: green;
+    background-color: yellow;
+}
+
+#submit{
+    margin:150px;
+    position:relative;
+    top:50px;
+    left:500px;
+}
+
+body{
+    background-color: pink;
+}
+
